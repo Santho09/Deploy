@@ -1,0 +1,19 @@
+ EDA - Different stages 
+Types of data and characteristics
+Data Cleaning and Visualization - Make it practice on a sample dataset.
+Graph plots - Make practice of all graphs on sample dataset.
+Data transformation technique - Make practice on dataset.
+Pandas objects, Data Indexing and selection
+Cocept of Handling missing values using pandas
+Hypothesis testing Type 1 & Type 2 concepts
+Classical, Bayesian analysis definition
+Merging multiple dataframes differ from concatenation in python
+EDA OPERATIONS- Duplicate rows detection in DataFrame and removal
+Hierarchical Index in Pandas
+HeatMap concept in visualizing correlation between multiple variables in a dataset
+Outlier detection impact on outcome of data modelling in ML. 
+Use seaborn library for visualization and pratcice plots on graphs.
+
+
+
+

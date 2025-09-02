@@ -1,0 +1,63 @@
+SLEEP SCORE,HOURS OF SLEEP,REM SLEEP,DEEP SLEEP,SLEEP TIME,SLEEP INTERRUPTION,SLEEP HEALTH,RECOMMENDATIONS,CONSEQUENCES
+90,7 1/2 hrs,18.00%,1 hrs 32 min,8 hours 12 minutes,Low Interruption,BAD,Increase deep sleep with relaxation techniques,Increased stress and mood swings
+89,8 1/2 hrs,21.00%,1 hrs 49 min,9 hours 36 minutes,Low Interruption,GOOD,Nothing,Nothing
+81,9 hrs,21.00%,1 hrs 30 min,10 hours 25 minutes,Moderate Interruption,BAD,Maintain a consistent sleep schedule,Difficulty concentrating and memory loss
+83,7 hrs,17.00%,1 hrs 17 min,7 hours 37 minutes,Moderate Interruption,BAD,Maintain a consistent sleep schedule,Difficulty concentrating and memory loss
+84,7 hrs,18.00%,1 hrs 27 min,7 hours 58 minutes,Moderate Interruption,BAD,Maintain a consistent sleep schedule,Difficulty concentrating and memory loss
+83,7 1/2 hrs,17.00%,1 hrs 24 min,8 hours 52 minutes,Moderate Interruption,GOOD,Nothing,Nothing
+87,8 hrs,22.00%,1 hrs 6 min,8 hours 50 minutes,Low Interruption,GOOD,Nothing,Nothing
+83,7 1/2 hrs,19.00%,1 hrs 20 min,8 hours 54 minutes,Moderate Interruption,BAD,Maintain a consistent sleep schedule,Difficulty concentrating and memory loss
+87,8 hrs,19.00%,1 hrs 13 min,9 hours 9 minutes,Low Interruption,GOOD,Nothing,Nothing
+83,7 hrs,15.00%,1 hrs 15 min,7 hours 46 minutes,Moderate Interruption,BAD,Maintain a consistent sleep schedule,Difficulty concentrating and memory loss
+88,7 1/2 hrs,17.00%,1 hrs 27 min,8 hours 27 minutes,Low Interruption,GOOD,Nothing,Nothing
+86,8 hrs,20.00%,1 hrs 31 min,9 hours 18 minutes,Low Interruption,GOOD,Nothing,Nothing
+82,8 hrs,11.00%,1 hrs 0 min,9 hours 11 minutes,Moderate Interruption,BAD,Maintain a consistent sleep schedule,Difficulty concentrating and memory loss
+83,7 1/2 hrs,19.00%,1 hrs 40 min,8 hours 23 minutes,Moderate Interruption,BAD,Maintain a consistent sleep schedule,Difficulty concentrating and memory loss
+82,8 hrs,17.00%,1 hrs 31 min,9 hours 15 minutes,Moderate Interruption,GOOD,Nothing,Nothing
+90,9 1/2 hrs,21.00%,1 hrs 38 min,10 hours 52 minutes,Low Interruption,GOOD,Nothing,Nothing
+91,7 1/2 hrs,24.00%,1 hrs 3 min,8 hours 31 minutes,Low Interruption,BAD,Increase deep sleep with relaxation techniques,Increased stress and mood swings
+89,8 hrs,17.00%,1 hrs 26 min,8 hours 50 minutes,Low Interruption,GOOD,Nothing,Nothing
+82,8 hrs,15.00%,1 hrs 21 min,9 hours 4 minutes,Moderate Interruption,GOOD,Nothing,Nothing
+75,7 hrs,20.00%,1 hrs 2 min,8 hours 5 minutes,Moderate Interruption,BAD,Maintain a consistent sleep schedule,Difficulty concentrating and memory loss
+93,8 hrs,22.00%,1 hrs 54 min,9 hours 1 minutes,Low Interruption,GOOD,Nothing,Nothing
+87,7 1/2 hrs,19.00%,0 hrs 37 min,8 hours 54 minutes,Low Interruption,BAD,Increase deep sleep with relaxation techniques,Increased stress and mood swings
+79,8 hrs,8.00%,0 hrs 57 min,9 hours 12 minutes,Moderate Interruption,BAD,Maintain a consistent sleep schedule,Difficulty concentrating and memory loss
+81,8 1/2 hrs,13.00%,1 hrs 14 min,9 hours 36 minutes,Moderate Interruption,GOOD,Nothing,Nothing
+84,7 1/2 hrs,16.00%,1 hrs 31 min,9 hours 3 minutes,Moderate Interruption,BAD,Maintain a consistent sleep schedule,Difficulty concentrating and memory loss
+85,7 1/2 hrs,22.00%,1 hrs 1 min,8 hours 28 minutes,Low Interruption,GOOD,Nothing,Nothing
+90,7 1/2 hrs,24.00%,1 hrs 26 min,8 hours 30 minutes,Low Interruption,GOOD,Nothing,Nothing
+87,7 hrs,21.00%,1 hrs 31 min,7 hours 44 minutes,Low Interruption,GOOD,Nothing,Nothing
+86,8 hrs,19.00%,1 hrs 19 min,9 hours 9 minutes,Low Interruption,GOOD,Nothing,Nothing
+89,7 hrs,22.00%,1 hrs 17 min,7 hours 56 minutes,Low Interruption,GOOD,Nothing,Nothing
+65,5 hrs,24%,50 min,6 hours,High Interruption,BAD,"Improve sleep environment (dark, quiet room)",Daytime fatigue and low energy
+58,4 1/2 hrs,21%,45 min,5 hours,High Interruption,BAD,"Improve sleep environment (dark, quiet room)",Daytime fatigue and low energy
+88,8 hrs,21%,1 hrs 30 min,9 hours,Low Interruption,GOOD,Nothing,Nothing
+67,6 1/2 hrs,14%,1 hrs 0 min,7 hours 10 minutes,High Interruption,BAD,"Improve sleep environment (dark, quiet room)",Daytime fatigue and low energy
+45,4 hrs,5%,35 min,4 hours 50 minutes,High Interruption,BAD,"Improve sleep environment (dark, quiet room)",Daytime fatigue and low energy
+92,9 hrs,22%,1 hrs 45 min,10 hours,Low Interruption,GOOD,Nothing,Nothing
+81,8 hrs,19%,1 hrs 22 min,9 hours 5 minutes,Moderate Interruption,BAD,Maintain a consistent sleep schedule,Difficulty concentrating and memory loss
+73,7 hrs,17%,1 hrs 10 min,7 hours 45 minutes,Moderate Interruption,GOOD,Nothing,Nothing
+95,9 1/2 hrs,25%,2 hrs 0 min,10 hours 30 minutes,Low Interruption,GOOD,Nothing,Nothing
+78,6 hrs,12%,50 min,6 hours 40 minutes,Moderate Interruption,BAD,Maintain a consistent sleep schedule,Difficulty concentrating and memory loss
+56,5 hrs,6%,40 min,5 hours 20 minutes,High Interruption,BAD,"Improve sleep environment (dark, quiet room)",Daytime fatigue and low energy
+83,7 1/2 hrs,20%,1 hrs 28 min,8 hours 15 minutes,Moderate Interruption,GOOD,Nothing,Nothing
+91,8 1/2 hrs,23%,1 hrs 50 min,9 hours 10 minutes,Low Interruption,GOOD,Nothing,Nothing
+85,8 hrs,22%,1 hrs 34 min,8 hours 45 minutes,Low Interruption,GOOD,Nothing,Nothing
+79,7 1/2 hrs,18%,1 hrs 20 min,8 hours,Moderate Interruption,BAD,Maintain a consistent sleep schedule,Difficulty concentrating and memory loss
+60,5 1/2 hrs,10%,45 min,6 hours,High Interruption,BAD,"Improve sleep environment (dark, quiet room)",Daytime fatigue and low energy
+48,4 1/2 hrs,4%,30 min,5 hours,High Interruption,BAD,"Improve sleep environment (dark, quiet room)",Daytime fatigue and low energy
+57,5 hrs,7%,50 min,5 hours 30 minutes,High Interruption,BAD,"Improve sleep environment (dark, quiet room)",Daytime fatigue and low energy
+76,6 1/2 hrs,14%,1 hrs 15 min,7 hours 0 minutes,Moderate Interruption,BAD,Maintain a consistent sleep schedule,Difficulty concentrating and memory loss
+90,9 hrs,24%,1 hrs 40 min,10 hours,Low Interruption,GOOD,Nothing,Nothing
+87,8 hrs,22%,1 hrs 30 min,9 hours 15 minutes,Low Interruption,GOOD,Nothing,Nothing
+82,7 1/2 hrs,19%,1 hrs 18 min,8 hours 30 minutes,Moderate Interruption,GOOD,Nothing,Nothing
+74,7 hrs,16%,1 hrs 10 min,7 hours 55 minutes,Moderate Interruption,GOOD,Nothing,Nothing
+97,9 1/2 hrs,26%,2 hrs 5 min,11 hours,Low Interruption,GOOD,Nothing,Nothing
+50,3 1/2 hrs,3%,20 min,4 hours 15 minutes,High Interruption,BAD,"Improve sleep environment (dark, quiet room)",Daytime fatigue and low energy
+64,6 hrs,12%,1 hrs 0 min,6 hours 30 minutes,High Interruption,BAD,"Improve sleep environment (dark, quiet room)",Daytime fatigue and low energy
+80,7 1/2 hrs,18%,1 hrs 25 min,8 hours 20 minutes,Moderate Interruption,BAD,Maintain a consistent sleep schedule,Difficulty concentrating and memory loss
+71,7 hrs,15%,1 hrs 15 min,7 hours 40 minutes,Moderate Interruption,BAD,Maintain a consistent sleep schedule,Difficulty concentrating and memory loss
+66,5 1/2 hrs,9%,55 min,6 hours,High Interruption,BAD,"Improve sleep environment (dark, quiet room)",Daytime fatigue and low energy
+94,10 hrs,25%,2 hrs 0 min,11 hours,Low Interruption,BAD,Increase deep sleep with relaxation techniques,Increased stress and mood swings
+88,8 1/2 hrs,21%,1 hrs 35 min,9 hours 30 minutes,Low Interruption,GOOD,Nothing,Nothing
+55,5 hrs,5%,40 min,5 hours 45 minutes,High Interruption,BAD,"Improve sleep environment (dark, quiet room)",Daytime fatigue and low energy

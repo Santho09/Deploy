@@ -1,0 +1,169 @@
+Age,Activity Level,Gender,Day,Workout Schedule,Exercise Plan
+Kids,Beginner,Male,Monday,"Wall Push-ups, Shoulder Taps, Arm Circles",Upper Body Strength
+Kids,Beginner,Male,Tuesday,"Bodyweight Squats, Lunges, Calf Raises",Lower Body Strength
+Kids,Beginner,Male,Wednesday,"Jumping Jacks, High Knees, Bicycle Crunches",Cardio & Core
+Kids,Beginner,Male,Thursday,"Superman Hold, Bird Dog, Wall Angels",Back & Posture
+Kids,Beginner,Male,Friday,"Glute Bridges, Step-ups, Hamstring Curls",Leg & Glute Strength
+Kids,Beginner,Male,Saturday,"Yoga Stretches, Foam Rolling, Hip Openers",Mobility & Flexibility
+Kids,Beginner,Male,Sunday,"Child’s Pose, Cat-Cow, Deep Breathing",Active Recovery & Stretching
+Kids,Beginner,Female,Monday,"Modified Push-ups, Shoulder Taps, Arm Circles",Upper Body Strength
+Kids,Beginner,Female,Tuesday,"Bodyweight Squats, Side Lunges, Heel Raises",Lower Body Strength
+Kids,Beginner,Female,Wednesday,"Jump Rope, Skaters, Bicycle Crunches",Cardio & Core
+Kids,Beginner,Female,Thursday,"Superman Hold, Bird Dog, Wall Slides",Back & Posture
+Kids,Beginner,Female,Friday,"Glute Bridges, Step-ups, Resistance Band Kicks",Leg & Glute Strength
+Kids,Beginner,Female,Saturday,"Yoga Poses, Foam Rolling, Hip Flexor Stretch",Mobility & Flexibility
+Kids,Beginner,Female,Sunday,"Seated Stretching, Deep Breathing, Cat-Cow",Active Recovery & Stretching
+Kids,Intermediate,Male,Monday,"Push-ups, Triceps Dips, Arm Swings",Upper Body Strength
+Kids,Intermediate,Male,Tuesday,"Jump Squats, Bulgarian Split Squats, Calf Raises",Lower Body Strength
+Kids,Intermediate,Male,Wednesday,"Mountain Climbers, Burpees, Russian Twists",Cardio & Core
+Kids,Intermediate,Male,Thursday,"Reverse Fly, Bird Dog, Resistance Band Rows",Back & Posture
+Kids,Intermediate,Male,Friday,"Deadlifts, Hamstring Curls, Side Leg Raises",Leg & Glute Strength
+Kids,Intermediate,Male,Saturday,"Dynamic Yoga, Resistance Band Stretching, Mobility Drills",Mobility & Flexibility
+Kids,Intermediate,Male,Sunday,"Foam Rolling, Deep Breathing, Meditation",Active Recovery & Stretching
+Kids,Intermediate,Female,Monday,"Incline Push-ups, Triceps Dips, Arm Circles",Upper Body Strength
+Kids,Intermediate,Female,Tuesday,"Goblet Squats, Side Lunges, Calf Raises",Lower Body Strength
+Kids,Intermediate,Female,Wednesday,"Jump Rope, Skaters, Standing Oblique Crunches",Cardio & Core
+Kids,Intermediate,Female,Thursday,"Superman Hold, Reverse Fly, Resistance Band Pulls",Back & Posture
+Kids,Intermediate,Female,Friday,"Glute Kickbacks, Hamstring Curls, Step-ups",Leg & Glute Strength
+Kids,Intermediate,Female,Saturday,"Yoga Stretches, Pilates Moves, Mobility Drills",Mobility & Flexibility
+Kids,Intermediate,Female,Sunday,"Seated Stretching, Deep Breathing, Foam Rolling",Active Recovery & Stretching
+Kids,Advanced,Male,Monday,"Plyometric Push-ups, Handstand Holds, Dips",Upper Body Strength
+Kids,Advanced,Male,Tuesday,"Pistol Squats, Box Jumps, Weighted Lunges",Lower Body Strength
+Kids,Advanced,Male,Wednesday,"Sprint Intervals, Jump Rope Double Unders, Ab Rollouts",Cardio & Core
+Kids,Advanced,Male,Thursday,"Pull-ups, Resistance Band Rows, Weighted Bird Dog",Back & Posture
+Kids,Advanced,Male,Friday,"Deadlifts, Bulgarian Split Squats, Hamstring Bridges",Leg & Glute Strength
+Kids,Advanced,Male,Saturday,"Advanced Yoga, Resistance Band Drills, Dynamic Stretching",Mobility & Flexibility
+Kids,Advanced,Male,Sunday,"Deep Stretching, Active Recovery, Breathing Exercises",Active Recovery & Stretching
+Kids,Advanced,Female,Monday,"Explosive Push-ups, Triceps Dips, Arm Swings",Upper Body Strength
+Kids,Advanced,Female,Tuesday,"Jump Squats, Side-to-Side Lunges, Calf Raises",Lower Body Strength
+Kids,Advanced,Female,Wednesday,"Burpees, High Knees, Bicycle Crunches",Cardio & Core
+Kids,Advanced,Female,Thursday,"Reverse Fly, Bird Dog, Dumbbell Rows",Back & Posture
+Kids,Advanced,Female,Friday,"Deadlifts, Step-ups, Glute Bridges",Leg & Glute Strength
+Kids,Advanced,Female,Saturday,"Yoga & Flexibility Drills, Resistance Band Stretching",Mobility & Flexibility
+Kids,Advanced,Female,Sunday,"Foam Rolling, Deep Breathing, Meditation",Active Recovery & Stretching
+Teens,Beginner,Male,Monday,"Push-ups, Shoulder Press, Arm Circles",Upper Body Strength
+Teens,Beginner,Male,Tuesday,"Bodyweight Squats, Step-ups, Calf Raises",Lower Body Strength
+Teens,Beginner,Male,Wednesday,"Jump Rope, Skaters, Bicycle Crunches",Cardio & Core
+Teens,Beginner,Male,Thursday,"Superman Hold, Reverse Fly, Bird Dog",Back & Posture
+Teens,Beginner,Male,Friday,"Glute Bridges, Leg Curls, Resistance Band Kickbacks",Leg & Glute Strength
+Teens,Beginner,Male,Saturday,"Yoga Poses, Pilates Moves, Mobility Drills",Mobility & Flexibility
+Teens,Beginner,Male,Sunday,"Deep Breathing, Meditation, Seated Stretching",Active Recovery & Stretching
+Teens,Beginner,Female,Monday,"Incline Push-ups, Shoulder Taps, Arm Circles",Upper Body Strength
+Teens,Beginner,Female,Tuesday,"Bodyweight Squats, Side Lunges, Heel Raises",Lower Body Strength
+Teens,Beginner,Female,Wednesday,"Jump Rope, Skaters, Russian Twists",Cardio & Core
+Teens,Beginner,Female,Thursday,"Superman Hold, Reverse Fly, Wall Slides",Back & Posture
+Teens,Beginner,Female,Friday,"Glute Bridges, Hamstring Curls, Step-ups",Leg & Glute Strength
+Teens,Beginner,Female,Saturday,"Yoga Stretches, Foam Rolling, Hip Openers",Mobility & Flexibility
+Teens,Beginner,Female,Sunday,"Child’s Pose, Cat-Cow, Deep Breathing",Active Recovery & Stretching
+Teens,Intermediate,Male,Monday,"Push-ups, Shoulder Press, Arm Circles",Upper Body Strength
+Teens,Intermediate,Male,Tuesday,"Lunges, Step-ups, Bulgarian Split Squats",Lower Body Strength
+Teens,Intermediate,Male,Wednesday,"Jump Rope, Burpees, Russian Twists",Cardio & Core
+Teens,Intermediate,Male,Thursday,"Pull-ups, Resistance Band Rows, Bird Dog",Back & Posture
+Teens,Intermediate,Male,Friday,"Deadlifts, Hamstring Curls, Side Leg Raises",Leg & Glute Strength
+Teens,Intermediate,Male,Saturday,"Yoga & Mobility Drills, Resistance Band Stretches",Mobility & Flexibility
+Teens,Intermediate,Male,Sunday,"Active Recovery, Foam Rolling, Deep Breathing",Active Recovery & Stretching
+Teens,Intermediate,Female,Monday,"Incline Push-ups, Shoulder Taps, Arm Circles",Upper Body Strength
+Teens,Intermediate,Female,Tuesday,"Goblet Squats, Side Lunges, Heel Raises",Lower Body Strength
+Teens,Intermediate,Female,Wednesday,"Jump Rope, Skaters, Bicycle Crunches",Cardio & Core
+Teens,Intermediate,Female,Thursday,"Reverse Fly, Bird Dog, Resistance Band Pulls",Back & Posture
+Teens,Intermediate,Female,Friday,"Glute Kickbacks, Hamstring Curls, Step-ups",Leg & Glute Strength
+Teens,Intermediate,Female,Saturday,"Yoga Poses, Pilates Moves, Mobility Drills",Mobility & Flexibility
+Teens,Intermediate,Female,Sunday,"Seated Stretching, Deep Breathing, Foam Rolling",Active Recovery & Stretching
+Teens,Advanced,Male,Monday,"Plyometric Push-ups, Handstand Holds, Dips",Upper Body Strength
+Teens,Advanced,Male,Tuesday,"Pistol Squats, Box Jumps, Weighted Lunges",Lower Body Strength
+Teens,Advanced,Male,Wednesday,"Sprint Intervals, Jump Rope Double Unders, Ab Rollouts",Cardio & Core
+Teens,Advanced,Male,Thursday,"Pull-ups, Resistance Band Rows, Weighted Bird Dog",Back & Posture
+Teens,Advanced,Male,Friday,"Deadlifts, Bulgarian Split Squats, Hamstring Bridges",Leg & Glute Strength
+Teens,Advanced,Male,Saturday,"Advanced Yoga, Resistance Band Drills, Dynamic Stretching",Mobility & Flexibility
+Teens,Advanced,Male,Sunday,"Deep Stretching, Active Recovery, Breathing Exercises",Active Recovery & Stretching
+Teens,Advanced,Female,Monday,"Explosive Push-ups, Triceps Dips, Arm Swings",Upper Body Strength
+Teens,Advanced,Female,Tuesday,"Jump Squats, Side-to-Side Lunges, Calf Raises",Lower Body Strength
+Teens,Advanced,Female,Wednesday,"Burpees, High Knees, Bicycle Crunches",Cardio & Core
+Teens,Advanced,Female,Thursday,"Reverse Fly, Bird Dog, Dumbbell Rows",Back & Posture
+Teens,Advanced,Female,Friday,"Deadlifts, Step-ups, Glute Bridges",Leg & Glute Strength
+Teens,Advanced,Female,Saturday,"Yoga & Flexibility Drills, Resistance Band Stretching",Mobility & Flexibility
+Teens,Advanced,Female,Sunday,"Foam Rolling, Deep Breathing, Meditation",Active Recovery & Stretching
+Adults,Beginner,Male,Monday,"Push-ups, Dumbbell Shoulder Press, Arm Swings",Upper Body Strength
+Adults,Beginner,Male,Tuesday,"Squats, Step-ups, Calf Raises",Lower Body Strength
+Adults,Beginner,Male,Wednesday,"Jump Rope, Burpees, Bicycle Crunches",Cardio & Core
+Adults,Beginner,Male,Thursday,"Superman Hold, Resistance Band Rows, Bird Dog",Back & Posture
+Adults,Beginner,Male,Friday,"Glute Bridges, Hamstring Curls, Side Lunges",Leg & Glute Strength
+Adults,Beginner,Male,Saturday,"Dynamic Yoga, Foam Rolling, Hip Openers",Mobility & Flexibility
+Adults,Beginner,Male,Sunday,"Active Recovery, Meditation, Breathing Exercises",Active Recovery & Stretching
+Adults,Beginner,Female,Monday,"Modified Push-ups, Shoulder Press, Arm Circles",Upper Body Strength
+Adults,Beginner,Female,Tuesday,"Squats, Side Lunges, Calf Raises",Lower Body Strength
+Adults,Beginner,Female,Wednesday,"Jump Rope, Russian Twists, Bicycle Crunches",Cardio & Core
+Adults,Beginner,Female,Thursday,"Reverse Fly, Bird Dog, Resistance Band Pulls",Back & Posture
+Adults,Beginner,Female,Friday,"Glute Kickbacks, Hamstring Curls, Step-ups",Leg & Glute Strength
+Adults,Beginner,Female,Saturday,"Yoga Stretches, Resistance Band Mobility Drills",Mobility & Flexibility
+Adults,Beginner,Female,Sunday,"Foam Rolling, Deep Breathing, Meditation",Active Recovery & Stretching
+Adults,Intermediate,Male,Monday,"Push-ups, Dumbbell Shoulder Press, Arm Swings",Upper Body Strength
+Adults,Intermediate,Male,Tuesday,"Squats, Step-ups, Calf Raises",Lower Body Strength
+Adults,Intermediate,Male,Wednesday,"Jump Rope, Burpees, Bicycle Crunches",Cardio & Core
+Adults,Intermediate,Male,Thursday,"Superman Hold, Resistance Band Rows, Bird Dog",Back & Posture
+Adults,Intermediate,Male,Friday,"Glute Bridges, Hamstring Curls, Side Lunges",Leg & Glute Strength
+Adults,Intermediate,Male,Saturday,"Dynamic Yoga, Foam Rolling, Hip Openers",Mobility & Flexibility
+Adults,Intermediate,Male,Sunday,"Active Recovery, Meditation, Breathing Exercises",Active Recovery & Stretching
+Adults,Intermediate,Female,Monday,"Modified Push-ups, Shoulder Press, Arm Circles",Upper Body Strength
+Adults,Intermediate,Female,Tuesday,"Squats, Side Lunges, Calf Raises",Lower Body Strength
+Adults,Intermediate,Female,Wednesday,"Jump Rope, Russian Twists, Bicycle Crunches",Cardio & Core
+Adults,Intermediate,Female,Thursday,"Reverse Fly, Bird Dog, Resistance Band Pulls",Back & Posture
+Adults,Intermediate,Female,Friday,"Glute Kickbacks, Hamstring Curls, Step-ups",Leg & Glute Strength
+Adults,Intermediate,Female,Saturday,"Yoga Stretches, Resistance Band Mobility Drills",Mobility & Flexibility
+Adults,Intermediate,Female,Sunday,"Foam Rolling, Deep Breathing, Meditation",Active Recovery & Stretching
+Adults,Advanced,Male,Monday,"Weighted Pull-ups, One-Arm Push-ups, Dips",Upper Body Strength
+Adults,Advanced,Male,Tuesday,"Pistol Squats, Box Jumps, Bulgarian Split Squats",Lower Body Strength
+Adults,Advanced,Male,Wednesday,"Sprint Intervals, Jump Rope Double Unders, Hanging Leg Raises",Cardio & Core
+Adults,Advanced,Male,Thursday,"Deadlifts, Rows, Resistance Band Pulls",Back & Posture
+Adults,Advanced,Male,Friday,"Glute Ham Raises, Romanian Deadlifts, Sled Push",Leg & Glute Strength
+Adults,Advanced,Male,Saturday,"Advanced Yoga, Mobility Drills, Resistance Band Work",Mobility & Flexibility
+Adults,Advanced,Male,Sunday,"Breathing Exercises, Active Recovery, Foam Rolling",Active Recovery & Stretching
+Adults,Advanced,Female,Monday,"One-Arm Push-ups, Weighted Dips, Arm Swings",Upper Body Strength
+Adults,Advanced,Female,Tuesday,"Jump Squats, Bulgarian Split Squats, Resistance Band Kicks",Lower Body Strength
+Adults,Advanced,Female,Wednesday,"High Knees, Jump Rope, Plank Twists",Cardio & Core
+Adults,Advanced,Female,Thursday,"Reverse Fly, Bird Dog, Dumbbell Rows",Back & Posture
+Adults,Advanced,Female,Friday,"Deadlifts, Step-ups, Hamstring Curls",Leg & Glute Strength
+Adults,Advanced,Female,Saturday,"Pilates Core, Advanced Yoga, Resistance Band Stretching",Mobility & Flexibility
+Adults,Advanced,Female,Sunday,"Foam Rolling, Meditation, Deep Breathing",Active Recovery & Stretching
+Seniors,Beginner,Male,Monday,"Chair Push-ups, Arm Raises, Seated Shoulder Press",Upper Body Strength
+Seniors,Beginner,Male,Tuesday,"Seated Squats, Step-ups, Heel Raises",Lower Body Strength
+Seniors,Beginner,Male,Wednesday,"Marching in Place, Side Leg Raises, Seated Twists",Cardio & Core
+Seniors,Beginner,Male,Thursday,"Superman Hold, Wall Slides, Resistance Band Rows",Back & Posture
+Seniors,Beginner,Male,Friday,"Seated Glute Bridges, Hamstring Stretches, Side Lunges",Leg & Glute Strength
+Seniors,Beginner,Male,Saturday,"Gentle Yoga, Foam Rolling, Hip Openers",Mobility & Flexibility
+Seniors,Beginner,Male,Sunday,"Breathing Exercises, Gentle Stretching, Meditation",Active Recovery & Stretching
+Seniors,Beginner,Female,Monday,"Seated Push-ups, Arm Circles, Shoulder Rolls",Upper Body Strength
+Seniors,Beginner,Female,Tuesday,"Squats to Chair, Step-ups, Heel Raises",Lower Body Strength
+Seniors,Beginner,Female,Wednesday,"Marching in Place, Seated Side Twists, Arm Swings",Cardio & Core
+Seniors,Beginner,Female,Thursday,"Reverse Fly, Bird Dog, Seated Resistance Band Rows",Back & Posture
+Seniors,Beginner,Female,Friday,"Glute Bridges, Side Leg Raises, Gentle Step-ups",Leg & Glute Strength
+Seniors,Beginner,Female,Saturday,"Seated Yoga Stretches, Mobility Drills",Mobility & Flexibility
+Seniors,Beginner,Female,Sunday,"Foam Rolling, Deep Breathing, Relaxation Techniques",Active Recovery & Stretching
+Seniors,Intermediate,Male,Monday,"Chair Push-ups, Arm Raises, Seated Shoulder Press",Upper Body Strength
+Seniors,Intermediate,Male,Tuesday,"Seated Squats, Step-ups, Heel Raises",Lower Body Strength
+Seniors,Intermediate,Male,Wednesday,"Marching in Place, Side Leg Raises, Seated Twists",Cardio & Core
+Seniors,Intermediate,Male,Thursday,"Superman Hold, Wall Slides, Resistance Band Rows",Back & Posture
+Seniors,Intermediate,Male,Friday,"Seated Glute Bridges, Hamstring Stretches, Side Lunges",Leg & Glute Strength
+Seniors,Intermediate,Male,Saturday,"Gentle Yoga, Foam Rolling, Hip Openers",Mobility & Flexibility
+Seniors,Intermediate,Male,Sunday,"Breathing Exercises, Gentle Stretching, Meditation",Active Recovery & Stretching
+Seniors,Intermediate,Female,Monday,"Seated Push-ups, Arm Circles, Shoulder Rolls",Upper Body Strength
+Seniors,Intermediate,Female,Tuesday,"Squats to Chair, Step-ups, Heel Raises",Lower Body Strength
+Seniors,Intermediate,Female,Wednesday,"Marching in Place, Seated Side Twists, Arm Swings",Cardio & Core
+Seniors,Intermediate,Female,Thursday,"Reverse Fly, Bird Dog, Seated Resistance Band Rows",Back & Posture
+Seniors,Intermediate,Female,Friday,"Glute Bridges, Side Leg Raises, Gentle Step-ups",Leg & Glute Strength
+Seniors,Intermediate,Female,Saturday,"Seated Yoga Stretches, Mobility Drills",Mobility & Flexibility
+Seniors,Intermediate,Female,Sunday,"Foam Rolling, Deep Breathing, Relaxation Techniques",Active Recovery & Stretching
+Seniors,Advanced,Male,Monday,"Incline Push-ups, Seated Shoulder Press, Arm Circles",Upper Body Strength
+Seniors,Advanced,Male,Tuesday,"Chair Squats, Step-ups, Resistance Band Leg Curls",Lower Body Strength
+Seniors,Advanced,Male,Wednesday,"Marching in Place, Heel Raises, Seated Twists",Cardio & Core
+Seniors,Advanced,Male,Thursday,"Wall Angels, Resistance Band Rows, Bird Dog",Back & Posture
+Seniors,Advanced,Male,Friday,"Glute Bridges, Seated Hamstring Curls, Side Leg Raises",Leg & Glute Strength
+Seniors,Advanced,Male,Saturday,"Yoga Poses, Foam Rolling, Mobility Drills",Mobility & Flexibility
+Seniors,Advanced,Male,Sunday,"Deep Breathing, Relaxation Techniques, Light Stretching",Active Recovery & Stretching
+Seniors,Advanced,Female,Monday,"Wall Push-ups, Arm Circles, Shoulder Rolls",Upper Body Strength
+Seniors,Advanced,Female,Tuesday,"Chair Squats, Step-ups, Seated Side Lunges",Lower Body Strength
+Seniors,Advanced,Female,Wednesday,"Seated Marching, Arm Swings, Bicycle Crunches",Cardio & Core
+Seniors,Advanced,Female,Thursday,"Reverse Fly, Bird Dog, Seated Resistance Band Pulls",Back & Posture
+Seniors,Advanced,Female,Friday,"Glute Kickbacks, Hamstring Curls, Step-ups",Leg & Glute Strength
+Seniors,Advanced,Female,Saturday,"Yoga Stretches, Seated Pilates, Mobility Drills",Mobility & Flexibility
+Seniors,Advanced,Female,Sunday,"Foam Rolling, Meditation, Deep Breathing",Active Recovery & Stretching
