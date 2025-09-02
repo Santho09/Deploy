@@ -1,52 +1,23 @@
-from flask import Flask, request, jsonify
-from flask_cors import CORS
+from flask import Blueprint, request, jsonify
 import google.generativeai as genai
 import os
-from dotenv import load_dotenv
 
-# ✅ Load environment variables
-load_dotenv()
-API_KEY = os.getenv("GEMINI_API_KEY")
+medical_bp = Blueprint("medical", __name__)
 
-if not API_KEY:
-    raise ValueError("❌ No API key found. Please set GEMINI_API_KEY in .env")
-
-# ✅ Configure Gemini with your key
-genai.configure(api_key=API_KEY)
-
-# ✅ Flask setup
-app = Flask(__name__)
-CORS(app)
-
-# ✅ Use free-friendly Flash model
+genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 model = genai.GenerativeModel("gemini-1.5-flash")
 
-@app.route("/api/chat", methods=["POST"])
-def chat():
+@medical_bp.route("/chat", methods=["POST"])
+def medical_chat():
     try:
         data = request.json
-        user_message = data.get("message", "").strip()
-
+        user_message = data.get("message", "")
         if not user_message:
-            return jsonify({"error": "No message provided"}), 400
-
-        # 🔹 Ask Gemini Flash
+            return jsonify({"error": "No message"}), 400
         response = model.generate_content(
-            f"Provide a short and important response to: {user_message}. Limit the answer to 2-3 sentences."
+            f"Answer briefly in 2-3 sentences: {user_message}"
         )
-
-        # ✅ Extract reply text
-        bot_reply = response.text if hasattr(response, "text") else response.candidates[0].content.parts[0].text
-
-        return jsonify({
-            "response": bot_reply.strip(),
-            "model": "gemini-1.5-flash"
-        })
-
+        reply = response.text if hasattr(response, "text") else response.candidates[0].content.parts[0].text
+        return jsonify({"response": reply.strip()})
     except Exception as e:
-        print("❌ Error:", e)
         return jsonify({"error": str(e)}), 500
-
-
-if __name__ == "__main__":
-    app.run(port=5006, debug=True)
